@@ -7,5 +7,5 @@ class mahasiswa{
 };
 
 mahasiswa::mahasiswa(){
-    
-}
+    cout<<"Constructor Terpanggil"<<endl;
+};
