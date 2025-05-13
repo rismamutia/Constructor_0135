@@ -49,5 +49,5 @@ int main()
    PersegiPanjang pP;
    BangunDatar bD;
    pP.inputData(bD);
-   pP.outputData(bD); 
+   pP.outputData(bD);
 };
