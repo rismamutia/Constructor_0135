@@ -16,6 +16,6 @@ int  main()
 {
     buku bukunya;
     //chain function calls
-    cout<<bukunya.SetJudul("Matematika").getJudul();
+    cout<<bukunya.setJudul("Matematika").getJudul();
     return 0;
 }
